@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "The Project"
 rank: 1
 ---
