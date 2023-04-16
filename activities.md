@@ -1,2 +1,2 @@
 # Activitites
-Here we post the most recent activitie
+Here we post the project activities
