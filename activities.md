@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Activities"
+rank: 2
 ---
 
 # Activitites
