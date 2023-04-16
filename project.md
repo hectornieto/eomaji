@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Project"
+rank: 1
 ---
 
 # The Project
