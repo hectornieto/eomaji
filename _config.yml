@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: EOMAJI - an ESA EOAfrica Explorers initiative
 # description: Bookmark this to keep an eye on my project updates!
 plugins:
-	- jekyll-toc
+  - jekyll-toc
 	
 # TOC Settings
 toc:
