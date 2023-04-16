@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Team"
+rank: 3
 ---
 
 # The Team
