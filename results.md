@@ -1,8 +1,17 @@
 ---
 layout: default
 title: "Results"
-rank: 4
+rank: 5
 ---
 
 # Results
-This is were we post the most recent project results
+Here we post the most recent activities and results, ordered in chronological order from newest to oldest.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
