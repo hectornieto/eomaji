@@ -4,6 +4,8 @@ title: "The Project"
 rank: 2
 ---
 
+![EO-MAJI Team](images/full_res/EOMAJI-team.png "Consortium and respective workpackage leads (blue), African EO research group (green) and African Early Adopters(yellow). Geographic distribution of African partners (map)")
+
 # The Project
 EOMAJI (Earth Observation system to Manage Africa’s food systems by Joint-knowledge of crop production and Irrigation digitization) will make use of a thermal-based energy balance model model (TSEB), to evaluate ET with inputs from the scientific ECOSTRESS and PRISMA missions, as an exploration of the capabilities for future operational satellite missions in deriving improved ET as well as yield/biomass and irrigation products. This will also allow acquiring a better understanding of water use efficiency of cultivated landscapes. 
 
