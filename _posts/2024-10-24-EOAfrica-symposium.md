@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2nd Workshop on International Cooperation in Spaceborne Imaging Spectroscopy"
+title: "EO for Africa Symposium 2024"
 date: 2024-10-24 10:10:00 +2000
 tags: news dissemination
 excerpt_separator: <!--more-->
