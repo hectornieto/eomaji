@@ -10,7 +10,7 @@ The primary objective of this [EO Africa](https://eo4society.esa.int/eo-africa/)
 ![EO Africa Explorers requirements](images/full_res/EOAFRICA-objective.png "EO Africa Explorers project requirements")
 
 ### Table Of Contents
-- [The Project](project.html)
-- [Activitites](activities.html)
-- [The Team](team.html)
-- [Results](results.html)
+- [The Project](/project.html)
+- [Activitites](/activities.html)
+- [The Team](/team.html)
+- [Results](/results.html)
