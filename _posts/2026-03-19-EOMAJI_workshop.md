@@ -14,6 +14,8 @@ During the workshop we presented the final results of EOMAJI and showcased the i
 
 We also showed the newly developed capacity building materials on:
 
+* [Image quality assessment](https://github.com/marchewaka/Image_quality)
+
 * [Evapotranspiration modelling using the Two Source Energy Balance model](https://mybinder.org/v2/git/https%3A%2F%2Fgit.csic.es%2Ftech4agro%2Fcourses%2Feomaji-eoafrica/HEAD)
 
 * [SenET framework implemented for the Copernicus Data Space Ecosystem (CDSE) openEO API](https://github.com/DHI/Sen-ET-OpenEO-toolbox)
